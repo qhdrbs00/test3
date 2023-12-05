@@ -1,7 +1,7 @@
 import os 
 os.system('cls')
 import streamlit as st
-#import turtle
+import turtle
 import numpy as np
 import random
 import pandas as pd
@@ -50,7 +50,7 @@ col1, col2 = st.columns([1, 2])
 with col1:
     st.image('토끼.jpg')
 with col2:
-    st.write('놓치면 후회할 인재(신수인👍, 시급 3만원, 대박 쩔어~~)')
+    st.write('놓치면 후회할 인재(신수인👍, 시급 5만원, 대박 쩔어~~)')
     '전화번호(☎) : 010-8773-4080'
     '이메일(📧) : strustar@konuang.ac.kr'
     '주소(🏠) : 충남 논산시 대학로121'
