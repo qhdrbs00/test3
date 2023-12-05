@@ -1,7 +1,7 @@
 import os 
 os.system('cls')
 import streamlit as st
-import turtle
+#import turtle
 import numpy as np
 import random
 import pandas as pd
